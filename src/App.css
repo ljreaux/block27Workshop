@@ -4,21 +4,3 @@
   padding: 2rem;
   text-align: center;
 }
-input {
-  margin: 1rem;
-}
-
-div .parent {
-  margin: 2rem;
-  padding: 2rem;
-  border: 2px solid white;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
-}
-
-h2 {
-  padding: 0;
-}

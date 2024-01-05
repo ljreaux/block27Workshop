@@ -65,4 +65,28 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+  div .parent
+  {
+    border-color: #1a1a1a !important; 
+  }
+}
+
+input {
+  margin: 1rem;
+}
+
+div .parent {
+  margin: 2rem;
+  padding: 2rem;
+  border: 2px solid #ffffff;
+  border-radius: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+h2 {
+  padding: 0;
 }
